@@ -4,19 +4,13 @@
 
 <p>
 <samp>
-I am an aspiring data scientist with a passion for design and computing. I am driven by the endless 
-possibilities of how data and design can come together to create meaningful and impactful experiences for users.
-I am constantly developing my skills in programming, data analysis, and visualization tools to stay at the 
-forefront of these fields.<br><br>
-    As a data scientist, I am dedicated to using data-driven insights to solve complex problems and create 
-innovative solutions. I am proficient in statistical techniques and machine learning algorithms that enable me 
-to analyze data and develop predictive models. My expertise in data visualization allows me to communicate 
-insights to stakeholders in a clear and compelling way.<br><br>
-    Moreover, my passion for design goes beyond data analysis, and I have honed my skills in UI/UX design, graphic 
-design, and web development. I believe that design is critical in creating engaging and user-friendly 
-experiences and strive to apply my design skills to every project I work on.<br><br>
-    Overall, I am committed to continuous learning and growth in both the data science and design fields, and I am 
-eager to tackle new challenges and opportunities.
+I’ve always been fascinated by stories — not just the ones we tell with words, but the stories data can reveal when combined with thoughtful design. Growing up, I realised that behind every number and graph, there’s a human experience waiting to be understood and felt.
+
+That curiosity led me to a path where data meets design and emotion. I want to build systems that don’t just work efficiently but connect deeply — tools that feel intuitive, smart, and minimal.
+
+I am currently focused on sharpening my skills in Python, data visualisation, UI/UX, and generative AI during a dedicated drop year. I’m committed to growing my coding, creativity, and storytelling abilities to bring these ideas to life.
+
+For me, technology isn’t just about solving problems; it’s about creating clarity, cutting through the noise, and making experiences that resonate. If you share this vision or just want to swap stories and ideas, I’d love to connect.
 </samp>
 </p>
 
@@ -35,27 +29,10 @@ eager to tackle new challenges and opportunities.
   
 </span>
 
-<h2 align="center"><samp>GITHUB STATS</samp></h2>
-
-<span align="center">
-  
-  [![Visits Badge](https://badges.strrl.dev/visits/ajxpr/ajxpr?style=for-the-badge&color=000000)](#)
-  [![Repos Badge](https://badges.strrl.dev/repos/ajxpr?style=for-the-badge&color=000000)](https://github.com/ajxpr?tab=repositories)
-  [![Gists Badge](https://badges.strrl.dev/gists/ajxpr?style=for-the-badge&color=000000)](https://gist.github.com/ajxpr)
-
-</span>
-
-
-<span align="center">  
-  
-  [![Github Stats](https://github-readme-streak-stats.herokuapp.com?user=ajxpr&theme=black-ice&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)](#)
-
-</span>
-
 
 <h2 align="center"><samp>CONNECT WITH ME ON</samp></h2>
 
-[Linkedin]: https://www.linkedin.com/in/akshajpiri
+[LinkedIn]: https://www.linkedin.com/in/akshajpiri
 [Gmail]: mailto:akshaj.piri@gmail.com
 [GitHub]: https://github.com/ajxpr
 [Figma]: https://www.figma.com/@ajxpr
@@ -63,7 +40,7 @@ eager to tackle new challenges and opportunities.
 
 <span align="center">
   
-[<img style="padding:25px;" alt="ajxpr | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]
+[<img style="padding:25px;" alt="ajxpr | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][LinkedIn]
 [<img style="padding:25px;" alt="ajxpr | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][Gmail]
 [<img alt="ajxpr | GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>][Github]
 [<img alt="ajxpr | Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>][Figma]
